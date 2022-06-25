@@ -22,3 +22,41 @@
 
 🚀 Always in constant learning! <br/>
 🎯 Work and Trust, since from Pernambuco, Brasil.
+🆓 Don't Forget To **[Follow Me](https://github.com/glauco-oliveira/glauco-oliveira)**
+
+
+## &#x1f4c8; GitHub Stats
+
+<p align="center">
+  <a href="glauco-oliveira"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=glauco-oliveira&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="glauco-oliveira" /></a><br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glauco-oliveira&show_icons=true&theme=radical" alt="glauco-oliveira" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=glauco-oliveira&theme=radical" alt="glauco-oliveira" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glauco-oliveira&show_icons=true&locale=en&layout=compact&theme=radical" alt="glauco-oliveira" /><br>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=glauco-oliveira&theme=onedark&no-frame=false&no-bg=true&margin-w=5" />
+</p>
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=glauco-oliveira&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+<div align="center">
+  <img height="180em" src="https://github.com/glauco-oliveira/glauco-oliveira/blob/output/github-contribution-grid-snake.svg" />
+
+##
+
+<details>
+    <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/glauco-oliveira?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
+
+</details>
+
+##
+
+## Another Pin Project
+<details>
+  <summary>My New WhatsApp Project</summary>
+   <a href="https://github.com/glauco-oliveira/ZapMarketing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=glauco-oliveira&repo=ZapMarketing">
+  </a>
+</details>
+</div>
