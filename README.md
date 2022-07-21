@@ -4,11 +4,10 @@
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glauco.oliveir@gmail.com)](mailto:glauco.oliveir@gmail.com)
 
 ## Hello World! <img src="https://raw.githubusercontent.com/glauco-oliveira/glauco-oliveira/main/wave.gif" width="30px">
-🧑🏽‍💻   Hi, welcome to my github, if you interested in anything please let me know.<br/>
+🧑🏽‍💻  Hi, welcome to my github, if you interested in anything please let me know.<br/>
 🌎  Living at São Paulo - Brazil.<br/>
-🎁  33 Years old, studing Data Science and Artificial Intelligence.<br/>
-🎉  51º latin america best machile learning programmer by IBM 2020.<br/>
-👨🏼‍💻   Working as a developer at ROBOT.IA and focusing on the client experience.<br/>
+🎁  Suding Data Science and Artificial Intelligence.<br/>
+👨🏼‍💻  Working as a developer at ROBOT.IA and focusing on the client experience.<br/>
 🌐  Also acting as consultant at <a href="https://gwsistemas.com.br/">GW Sistemas</a>.<br/>
 
 ## Knowledge :man_technologist:
