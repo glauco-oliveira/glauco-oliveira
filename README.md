@@ -6,7 +6,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/glauco-oliveira/glauco-oliveira/main/wave.gif" width="30px">
 🧑🏽‍💻  Hi, welcome to my github, if you interested in anything please let me know.<br/>
 🌎  Living at São Paulo - Brazil.<br/>
-🎁  Suding Data Science and Artificial Intelligence.<br/>
+🎁  Studing Data Science and Artificial Intelligence.<br/>
 👨🏼‍💻  Working as a developer at ROBOT.IA and focusing on the client experience.<br/>
 🌐  Also acting as consultant at <a href="https://gwsistemas.com.br/">GW Sistemas</a>.<br/>
 
