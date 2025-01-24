@@ -34,12 +34,6 @@
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=glauco-oliveira&theme=onedark&no-frame=false&no-bg=true&margin-w=5" />
 </p>
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=glauco-oliveira&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-
-<div align="center">
-  <img height="180em" src="https://github.com/glauco-oliveira/glauco-oliveira/blob/output/github-contribution-grid-snake.svg" />
-
 ##
 
 <details>
