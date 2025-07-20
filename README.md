@@ -35,11 +35,7 @@
 
 ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glauco-oliveira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glauco-oliveira/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glauco-oliveira/output/github-contribution-grid-snake.svg">
-</picture>
+![GitHub Snake](https://github-readme-snake.vercel.app/api?username=glauco-oliveira&color_snake=#36BCF7&color_dots=#FFE500,#FF8C00,#FF2E00)
 
 ##
 
