@@ -23,6 +23,13 @@
 🎯 Work and Trust, since from Pernambuco, Brasil.
 🆓 Don't Forget To **[Follow Me](https://github.com/glauco-oliveira/glauco-oliveira)**
 
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glauco-oliveira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glauco-oliveira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glauco-oliveira/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -33,14 +40,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=glauco-oliveira&show_icons=true&locale=en&layout=compact&theme=radical" alt="glauco-oliveira" /><br>
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=glauco-oliveira&theme=onedark&no-frame=false&no-bg=true&margin-w=5" />
 </p>
-
-##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glauco-oliveira/glauco-oliveira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glauco-oliveira/glauco-oliveira/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/glauco-oliveira/glauco-oliveira/output/github-contribution-grid-snake.svg">
-</picture>
 
 ##
 
